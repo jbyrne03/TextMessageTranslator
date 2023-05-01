@@ -3,10 +3,8 @@ package TextMessages;
  *This program reads text messages inputted by the user and replaces text messages abbreviations with their meanings.
  *Checks every word inputted against a list of abbreviations contained in the file, abbreviations.txt.
  *
- * @author James Byrne
  * @version 0.1
  * @since 04/14/2023
- * @email jbyrne03@nyit.edu
  */
 import java.io.File;
 import java.io.FileInputStream;
