@@ -5,10 +5,8 @@ package TextMessages;
  * Appends pre-existing data saved to the file.
  * Checks if term is on the list so no term is duplicated.
  *
- * @author James Byrne
  * @version 0.2
  * @since 04/14/2023
- * @email jbyrne03@nyit.edu
  */
 import java.io.*;
 import java.util.Scanner;
